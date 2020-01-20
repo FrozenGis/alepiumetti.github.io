@@ -21,23 +21,23 @@ sass:
   style: compressed
 
 # Site Data
-url: # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: # the subpath of your site, e.g. /blog
-title: Simple Texture
-description: "A gem-based responsive simple texture styled Jekyll theme."
+url: https://alepiumetti.github.io
+baseurl: https://alepiumetti.github.io # the subpath of your site, e.g. /blog
+title: Alejandro Piumetti
+description: "Desarrollador web y emprendedor"
 keywords: 'jekyll,theme,gem-based,blog'
 author:
-  name:
-  job_title:
-  location:
-  email:
-  social_links:
+  name: "Alejandro Piumetti"
+  job_title: "Co-Fundador Yoop"
+  location: "Rosario, Argentina"
+  email: "alejandro@yoop.com.ar"
+  social_links: 
     - name: facebook
-      url:
+      url: https://facebook.com/piuma14
     - name: github
-      url: https://github.com/yizeng/jekyll-theme-simple-texture
+      url: https://github.com/alepiumetti/
     - name: instagram
-      url:
+      url: https://instagram.com/alepiumetti
     - name: linkedin
       url:
     - name: stackoverflow
@@ -56,7 +56,7 @@ blog:
   footer_content: A gem-based responsive simple texture styled <a href="http://jekyllrb.com/">Jekyll</a> theme.
 
 disqus:
-  shortname: # e.g. yizeng
+  shortname: yoop-1
   public_key: # e.g. ULZ0b9TFefCUJHKQd4JCKv2v3u27YoG7YG8zXPewkWrT333Z0Se9YnxLzoV6VM8W
 google_tag_manager: # e.g. 'GTM-KCQJXZ8F'
 addthis_public_id: # AddThis sharing plugin. See http://www.addthis.com/. E.g. ra-53329e27694534j5 
