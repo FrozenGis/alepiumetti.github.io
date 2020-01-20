@@ -22,7 +22,7 @@ sass:
 
 # Site Data
 url: https://alepiumetti.github.io
-baseurl: https://alepiumetti.github.io # the subpath of your site, e.g. /blog
+baseurl: # the subpath of your site, e.g. /blog
 title: Alejandro Piumetti
 description: "Desarrollador web y emprendedor"
 keywords: 'jekyll,theme,gem-based,blog'
