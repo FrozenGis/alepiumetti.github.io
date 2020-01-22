@@ -1,3 +1,9 @@
+layout: post
+title: "Cómo empezar a programar 1"
+  description: "Un breve repaso de por donde comenzar en este mundo de la programación, contado en 1ra persona"
+categories: [programacion,diario]
+tags: [diario,UTN,UNR,estudios]
+
 # ¿Cómo empezar a programar?
 
 Hoy en día practicamente todo el mundo gira en torno a la tecnología, y por ese motivo muchos ven a la programación como un punto de partida para el trabajo sus sueños. 
