@@ -10,7 +10,7 @@ redirect_from:
 
 # ¿Cómo empezar a programar?
 
-Hoy en día prácticamente todo el mundo gira en torno a la tecnología, y por ese motivo muchos ven a la programación como un punto de partida para el trabajo sus sueños. 
+Hoy en día prácticamente todo el mundo gira en torno a la tecnología, y por ese motivo muchos ven a la programación como un punto de partida para el trabajo de sus sueños. 
 
 Trabajar desde casa o en una oficina, con aire acondicionado en verano y calefacción en invierno, Sería ideal, ¿no? Sin embargo la cosa cambia en la practica. 
 
