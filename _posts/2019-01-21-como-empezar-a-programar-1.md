@@ -44,11 +44,14 @@ Me costó horrores hacer el examen de ingreso para que durante el año todo se v
 **En resumen:**
 
 * Respecto a programar
-👍 Aprendí la lógica de programación
-👎 Lo aprendí con Pascal
+
+  👍 Aprendí la lógica de programación
+  👎 Lo aprendí con Pascal
+  
 * Respecto a la carrera
-👍 No era tan difícil como la pintaban
-👎 Estaba centrada en los sistemas como una organización (empresa).
+
+  👍 No era tan difícil como la pintaban  
+  👎 Estaba centrada en los sistemas como una organización (empresa).
 
 Salí de esa carrera con todas las materias regulares pero con pocas ganas de seguirla, así que empecé a buscar qué es lo iba hacer. Encontré mucha oferta de cursos cortos y pagos, que lo que más me gustaba era que iban directo al grano -> programar. Pero por motivos de la vida me volví a meter en una universidad.
 Esta vez entré a _Licenciatura en Ciencias de la Computación_ en la _Universidad Nacional de Rosario_. La carrera más difícil de esa universidad me dijeron cuando entré, capaz que si lo sabía antes ni siquiera probaba suerte. 😅
@@ -56,11 +59,14 @@ Esta vez entré a _Licenciatura en Ciencias de la Computación_ en la _Universid
 **En resumen:**
 
 * Respecto a programar
-👍 Aprendes lo "último" en tecnologías. (e.g. Phyton)
-👎 Está centrado en la investigación, por lo que enseñan mucho a bajo nivel. (Lo puse acá porque me estoy centrando en el que quiere programar "normalmente" y a bajo nivel.)
+
+  👍 Aprendes lo "último" en tecnologías. (e.g. Phyton)
+  👎 Está centrado en la investigación, por lo que enseñan mucho a bajo nivel. (Lo puse acá porque me estoy centrando en el que quiere programar "normalmente" y a bajo nivel.)
+  
 * Respecto a la carrera
-👍 Están super actualizados con los temas de la carrera y siempre están cambiando el plan de estudio para estar al día. 
-👎 Es una carrera muy difícil. Tiene mucha matemática y lógica, por lo que si no sos muy fan de eso, estás al muere. 
+
+  👍 Están super actualizados con los temas de la carrera y siempre están cambiando el plan de estudio para estar al día. 
+  👎 Es una carrera muy difícil. Tiene mucha matemática y lógica, por lo que si no sos muy fan de eso, estás al muere. 
 
 Una vez que salí de todo esto de las universidades ya habían pasado poco más de 4 años y ya no sabía para donde disparar. Teniendo un trabajo en un kiosco decidí salir a buscar un camino. Ahí volví a años anteriores, a buscar cursos mas cortos que enseñen directamente a programar en un lenguaje específico. 
 Ahí me metí en una carrera de Java, lenguaje que me iba a servir para todo lo que quería hacer. Programas que solucionen la vida de las personas en todos los ámbitos de su vida, que lo puedan usar en cualquier lugar, desde su heladera hasta su computadora, TODO.
