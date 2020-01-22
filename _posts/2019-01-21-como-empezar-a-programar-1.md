@@ -1,21 +1,11 @@
 ---
 layout: post
-title: "Quick kramdown demo"
-description: "A quick demo post to some kramdown features."
-categories: [demo]
-tags: [demo, jekyll]
-redirect_from:
-  - /2017/05/25/
----
-
----
-layout: post
 title: "Cómo empezar a programar 1"
-  description: "Un breve repaso de por donde comenzar en este mundo de la programación, contado en 1ra persona"
+description: "Un breve repaso de por donde comenzar en este mundo de la programación, contado en 1ra persona"
 categories: [programacion,diario]
 tags: [diario,UTN,UNR,estudios]
 redirect_from:
-    - /2020/01/21/
+  - /2020/01/21/
 ---
 
 # ¿Cómo empezar a programar?
