@@ -18,13 +18,13 @@ Voy a afrontar el tema desde un lado mas "humano" por decirlo de alguna forma. N
 
 ## ¿Qué te voy a decir?
 
-Voy a comenzar por contarte una breve historia ¿Por qué? Porque creo que es un buen punto de partida explicar de donde vengo para demostrarte que ser quien sos o de donde venís no te condiciona a lo que querés hacer. También para bajarte un poco a tierra comentándote que aunque te guste mucho jugar en PC o investigar, muchas veces la programación puede no ser para vos. 
-Después voy a decirte por que lugares empecé yo, que juntadas, a donde encontrás gente que esté en la misma o que es lo que hacemos todos para aprender o conseguir un laburito.
+Voy a comenzar por contarte una breve historia ¿Por qué? Porque creo que es un buen punto de partida explicar de dónde vengo para demostrarte que ser quien sos o de dónde venís no te condiciona a lo que querés hacer. También para bajarte un poco a tierra comentándote que aunque te guste mucho jugar en PC o investigar, muchas veces la programación puede no ser para vos. 
+Después voy a decirte por que lugares empecé yo, que juntadas, a dónde encontrás gente que esté en la misma o que es lo que hacemos todos para aprender o conseguir un laburito.
 Por último, voy a centrarme en que lenguajes comencé y cuales te recomiendo. Así como también lugares a cuales acudir para aprender. Así vas a poder tener un pantallazo de que hacer una vez que salgas de acá.
 
 **Cualquier pregunta o recomendación que tengas, comenta**
 
-## De donde venís y que te gusta no te condiciona.
+## De dónde venís y que te gusta no te condiciona.
 
 ### Mis inicios 
 
@@ -64,9 +64,9 @@ Esta vez entré a _Licenciatura en Ciencias de la Computación_ en la _Universid
 
 Una vez que salí de todo esto de las universidades ya habían pasado poco más de 4 años y ya no sabía para donde disparar. Teniendo un trabajo en un kiosco decidí salir a buscar un camino. Ahí volví a años anteriores, a buscar cursos mas cortos que enseñen directamente a programar en un lenguaje específico. 
 Ahí me metí en una carrera de Java, lenguaje que me iba a servir para todo lo que quería hacer. Programas que solucionen la vida de las personas en todos los ámbitos de su vida, que lo puedan usar en cualquier lugar, desde su heladera hasta su computadora, TODO.
-Empecé super motivado, aprendí las bases del lenguaje, a hacer un pequeño programa y después de meses tenía un camino por recorrer. Entonces después de largo tiempo de trabajo por la mañana y estudio por la noche me senté frente a mi notebook y ¡ualá! No me salió nada. Quería hacer algo y no salía, no sabía a donde buscar, tampoco sabía exactamente que quería hacer, así que ahí abandoné todo y me dediqué a "perder tiempo" jugando juegos online.
+Empecé super motivado, aprendí las bases del lenguaje, a hacer un pequeño programa y después de meses tenía un camino por recorrer. Entonces después de largo tiempo de trabajo por la mañana y estudio por la noche me senté frente a mi notebook y ¡ualá! No me salió nada. Quería hacer algo y no salía, no sabía a dónde buscar, tampoco sabía exactamente que quería hacer, así que ahí abandoné todo y me dediqué a "perder tiempo" jugando juegos online.
 Luego de eso estuve más de un año buscando que es lo que quería hacer, sin saber que lo único que me faltaba era un objetivo, un proyecto ambicioso, un norte. 
 Cuando lo encontré, volví a empezar, casi de cero. Prácticamente sin herramientas pero con muchas ganas de crecer. Y ahí es cuando realmente te das cuenta si esto es o no lo que querés hacer. 
 
-A partir de acá, todo es en subida. Así que el próximo post voy a comentarte como es que comencé a buscar grupos de gente, cómo empecé nuevos proyectos y que me ayudo a saber para donde disparar. 
+A partir de acá, todo es en subida. Así que el próximo post voy a comentarte como es que comencé a buscar grupos de gente, cómo empecé nuevos proyectos y que me ayudo a saber para dónde ir.
 Si vos tenés alguna breve historia sobre tu vida, contámela en los comentarios que voy a estar leyéndote 💪😊
